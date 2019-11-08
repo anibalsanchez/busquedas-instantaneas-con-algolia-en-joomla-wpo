@@ -1,0 +1,29 @@
+#
+# package     Búsquedas Instantáneas con Algolia en Joomla (WPO), by Anibal Sanchez @anibal_sanchez - JoomlaDay™ Madrid 2019
+# subpackage  Lando
+#
+# author      Extly, CB.
+# copyright   Copyright (C) 2019 Extly, CB. All rights reserved.
+# license     https://www.gnu.org/licenses/gpl-3.0.html GNU/GPL
+# link        https://extly.com https://extly.com
+#
+
+name: busquedas-instantaneas-con-algolia-en-joomla-wpo
+
+proxy:
+  web-service:
+    # Give me http://busquedas-instantaneas-con-algolia-en-joomla-wpo.lndo.site and https://busquedas-instantaneas-con-algolia-en-joomla-wpo.lndo.site
+    - busquedas-instantaneas-con-algolia-en-joomla-wpo.lndo.site
+
+services:
+  web-service:
+    # Use the latest version of nginx.
+    type: nginx
+
+    # Optionally specify a webroot if it is a subdirectory of the appRoot
+    webroot: web
+    ports:
+      # A nice http://localhost:8080
+      - '8080:80'
+
+

@@ -1,0 +1,1 @@
+## <!-- .slide: data-background="#fff" data-background-repeat="no-repeat" data-background-image="images/Portada-busquedas-instantaneas-con-algolia-en-joomla-wpo.png" data-background-size="100% auto" data-background-position="0% 50%"-->
