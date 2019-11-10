@@ -1,85 +1,80 @@
-# What is Algolia?  <!-- .slide: class="" -->
+# ¿Qué es Algolia?  <!-- .slide: class="" -->
 
-![What is Algolia?](images/05-who/algolia-blue-mark.svg) <!-- .element: style="width: 10%" -->
+![¿Qué es Algolia?](images/05-who/algolia-blue-mark.svg) <!-- .element: style="width: 10%" -->
 
-- A hosted full-text, numerical, and faceted search engine<!-- .element: class="small" -->
-- Capable of delivering real-time results from the first keystroke<!-- .element: class="small" -->
-- Delivers products to accelerate search<!-- .element: class="small" -->
-- Empower discovery experiences across any device and platform<!-- .element: class="small" -->
-- Based on a Global Search Delivery Network<!-- .element: class="small" -->
-
-
-## Search Beyond The Box  <!-- .slide: class=" plain" -->
-
-Innovative User Experiences
-
-[eBook: Search Beyond the Box](https://go.algolia.com/search-beyond-the-box)<!-- .element: class="small" -->
+- Un motor de búsqueda gestionado de texto completo, numérico y facetado<!-- .element: class="small" -->
+- Capaz de entregar resultados en tiempo real desde el primer tipeo<!-- .element: class="small" -->
+- Ofrece productos/ servicios para acelerar las búsquedas<!-- .element: class="small" -->
+- Potencia las experiencias de descubrimiento en cualquier dispositivo y plataforma<!-- .element: class="small" -->
+- Basado en una red global de entrega de búsquedas<!-- .element: class="small" -->
 
 
-## 1. Search matters (in numbers) <!-- .slide: class=" plain" -->
+## 1. La búsqueda importa <i class="fas fa-search-dollar"></i> <!-- .slide: class=" plain" -->
 
-- Bad search is expensive
-- Users remember bad search experiences
-- Great search produces business results
-
-
-## 2. User intent: search beyond the box <!-- .slide: class=" plain" -->
-
-- Covering the basics
-    - Textual relevance
-    - Business relevance
-    - Personalization
-- User experience: advanced use cases
+- Una mala búsqueda cuesta muy caro
+- Los usuarios recuerdan las malas experiencias de búsqueda
+- Una gran búsqueda produce resultados de negocio
 
 
-## Success Cases
+## 2. Intención del usuario <!-- .slide: class=" plain" -->
+
+_"búsqueda más allá del buscador"_
+
+- Cubriendo lo básico
+    - Relevancia textual
+    - Relevancia comercial
+    - Personalización
+- Experiencia de usuario: casos de uso avanzados
 
 
-### San Juan Turismo
+## Casos de éxito
+
+
+### Casos de éxito
 
 [sanjuan.tur.ar](https://sanjuan.tur.ar/en/)
 
-- Multilingual Search<!-- .element: class="small" -->
-- Autocomplete Search Box<!-- .element: class="small" -->
-- Advanced InstantSearch<!-- .element: class="small" -->
-- Indexing K2 Articles and SobiPro<!-- .element: class="small" -->
-- Support of search segmentation by scopes and languages<!-- .element: class="small" -->
+- Búsqueda multilingüe <!-- .element: class="small" -->
+- Búsqueda por auto-completado <!--.element: class="small" -->
+- Búsqueda avanzada instantánea  <!--.element: class="small" -->
+- Indexando de Artículos K2 y Directorio SobiPro<!-- .element: class="small" -->
+- Soporte de la segmentación de la búsqueda por alcances e idiomas <!-- .element: class="small" -->
 
-Powered by [XT Search for Algolia](https://www.extly.com/xt-search-for-joomla.html)
-
-
-## Autocomplete
-
-![SanJuan Turismo - Autocomplete](images/10-what/sanjuan-autocomplete.png)
+Potenciado por [XT Search for Algolia](https://www.extly.com/xt-search-for-joomla.html)
 
 
-## JED
+## Búsqueda por auto-completado
 
-![What is Algolia?](images/05-who/Joomla-isologo.svg) <!-- .element: style="width: 10%" -->
+![SanJuan Turismo - Búsqueda por auto-completado](images/10-what/sanjuan-autocomplete.png)
+
+
+## Directorio de Extensiones Joomla
+
+![¿Qué es Algolia?](images/05-who/Joomla-isologo.svg) <!-- .element: style="width: 10%" -->
 
 [extensions.joomla.org](https://extensions.joomla.org)
 
-- Full-text Search for a Custom extension<!-- .element: class="small" -->
-- Autocomplete Search Box<!-- .element: class="small" -->
-- Advanced InstantSearch<!-- .element: class="small" -->
-- Supported by Complex Ranking and Sorting System<!-- .element: class="small" -->
+- Búsqueda de texto completo para una extensión propia<!-- .element: class="small" -->
+- Búsqueda por auto-completado<!-- .element: class="small" -->
+- InstantSearch Avanzada<!-- .element: class="small" -->
+Soportado por un complejo sistema de clasificación y ordemiento<!-- .element: class="small" -->
 
 
-## InstantSearch
+## Instant Search
 
 ![JED - InstantSearch](images/10-what/jed-search-InstantSearch.png)
 
 
-## InstantSearch - Fields & Facets
+## InstantSearch - Campos & Facetas
 
 ![JED - InstantSearch](images/10-what/jed-search-InstantSearch2.png)
 
 
-## Algolia Pricing
+## El Valor <i class="fas fa-dollar-sign"></i> de Algolia
 
 ![Algolia Pricing](images/10-what/algolia-pricing.png) <!-- .element: style="width: 90%" -->
 
 
-## Algolia Pricing
+## El Valor <i class="fas fa-dollar-sign"></i> de Algolia
 
 ![Algolia Pricing](images/10-what/algolia-pricing2.png) <!-- .element: style="width: 90%" -->
