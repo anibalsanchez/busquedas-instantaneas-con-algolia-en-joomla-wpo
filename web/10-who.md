@@ -13,7 +13,7 @@
 [@anibal_sanchez](https://twitter.com/anibal_sanchez) - anibal.sanchez[@]extly.com
 
 
-## Mis Palabras de Moda Tech de Hoy:
+## Mis Palabras Tech de Hoy:
 
 ```
 
@@ -22,6 +22,8 @@
                     Tailwind();
                     Laravel();
                     Vue();
+                    DesarrolloMovíl() => Web + Mobile_Apps + WebApps;
+                    DesarrolloModerno() => PHP_7 + Javascript_ESNext;
                 }
 
 ```
