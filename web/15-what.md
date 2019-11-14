@@ -20,11 +20,11 @@
 
 _"búsqueda más allá del buscador"_
 
-- Cubriendo lo básico
+- Cubriendo lo básico <i class="far fa-check-square"></i>
     - Relevancia textual
     - Relevancia comercial
     - Personalización
-- Experiencia de usuario: casos de uso avanzados
+- Experiencia de usuario: casos de uso avanzados <i class="far fa-check-square"></i>
 
 
 ## Casos de éxito

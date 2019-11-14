@@ -1,5 +1,7 @@
 # Conclusión
 
+<i class="fas fa-fighter-jet fa-3x"></i>
+
 
 ## Preguntas - Comentarios
 

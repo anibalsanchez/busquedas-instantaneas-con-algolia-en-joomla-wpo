@@ -1,4 +1,4 @@
-# Búsquedas Instantáneas <!-- .slide: class="home" -->
+# <i class="fab fa-searchengin"></i> Búsquedas Instantáneas <!-- .slide: class="home" -->
 
 Con Algolia en [Joomla](http:/joomla.org) - Optimización del Rendimiento Web
 
