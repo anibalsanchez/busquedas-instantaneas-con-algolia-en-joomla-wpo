@@ -49,6 +49,13 @@
 <p style="margin-top:12em;color:#fff;">El 78% de las búsquedas de un negocio local desde un dispositivo móvil dan como resultado una compra.</p>
 
 
+## Avanzando hacia una web más rápida
+
+![Avanzando hacia una web más rápida](images/05-who/moving-towards-faster-web.jpg) <!-- .element: style="width: 50%" -->
+
+_... En el futuro, [Chrome puede identificar sitios que normalmente cargan rápido o lento](https://blog.chromium.org/2019/11/moving-towards-faster-web.html)... Nuestro plan para identificar los sitios que son rápidos o lentos se llevará a cabo en pasos graduales, basados en criterios cada vez más estrictos._<!-- .element: class="small" -->
+
+
 <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/05-who/JED-instant-search-algolia.png" data-background-size="50% auto" data-background-position="50% 20%" -->
 
 <p style="margin-top:12em;color:#fff;">Más allá de la búsqueda<br><strong>Experiencias de descubrimiento instantáneas, sin fricciones, y con contenido global relevante</strong></p>
