@@ -11,12 +11,12 @@
 
 ## 1. La búsqueda importa <i class="fas fa-search-dollar"></i> <!-- .slide: class=" plain" -->
 
-- Una mala búsqueda cuesta muy caro
+- Una búsqueda mala cuesta muy caro
 - Los usuarios recuerdan las malas experiencias de búsqueda
 - Una gran búsqueda produce resultados de negocio
 
 
-## 2. Intención del usuario <!-- .slide: class=" plain" -->
+## 2. Intención del usuario <i class="fas fa-search-dollar"></i> <!-- .slide: class=" plain" -->
 
 _"búsqueda más allá del buscador"_
 
