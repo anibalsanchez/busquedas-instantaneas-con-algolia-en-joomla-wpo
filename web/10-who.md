@@ -58,7 +58,7 @@ _... En el futuro, [Chrome puede identificar sitios que normalmente cargan rápi
 
 <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/05-who/JED-instant-search-algolia.png" data-background-size="50% auto" data-background-position="50% 20%" -->
 
-<p style="margin-top:12em;color:#fff;">Más allá de la búsqueda <i class="fas fa-search-dollar"></i><br><strong>Experiencias de descubrimiento instantáneas, sin fricciones, y con contenido global relevante</strong></p>
+<p style="margin-top:12em">Más allá de la búsqueda <i class="fas fa-search-dollar"></i><br><strong>Experiencias de descubrimiento instantáneas, sin fricciones, y con contenido global relevante</strong></p>
 
 
 <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/10-what/jed-search-InstantSearch.png" data-background-size="50% auto" data-background-position="50% 20%" -->
@@ -66,4 +66,4 @@ _... En el futuro, [Chrome puede identificar sitios que normalmente cargan rápi
 
 <!-- .slide: data-background-repeat="no-repeat" data-background-image="images/05-who/algolia-jed-facebook.png" data-background-size="auto auto" data-background-position="50% 20%" -->
 
-<p style="margin-top:14em;color:#fff;">... acabo de descubrir las nuevas opciones de filtrado en el JED! Esto es <a href="https://www.facebook.com/groups/joomlanospam/permalink/10156343997875997/">asombroso</a> 🙌😊👏</strong></p>
+<p style="margin-top:14em;">... acabo de descubrir las nuevas opciones de filtrado en el JED! Esto es <a href="https://www.facebook.com/groups/joomlanospam/permalink/10156343997875997/">asombroso</a> 🙌😊👏</strong></p>

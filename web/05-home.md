@@ -4,7 +4,7 @@ Con Algolia en [Joomla](http:/joomla.org) - Optimización del Rendimiento Web
 
 Por [Anibal Sanchez](https://blog.anibalhsanchez.com), [Extly Tech](https://extly.com)
 
-Slides: [joo.nu/xtbusqueda](https://joo.nu/xtbusqueda) - JoomlaDay™ Madrid 2019 - 16 de Noviembre, 2019
+Slides: [joo.nu/xtbusqueda](https://joo.nu/xtbusqueda) - [PDF](busquedas-instantaneas-con-algolia-en-joomla-wpo-by-anibal-sanchez.pdf) - JoomlaDay™ Madrid 2019 - 16 de Noviembre, 2019
 
 
 ## En esta ponencia
