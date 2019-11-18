@@ -11,6 +11,11 @@ Anibal Sanchez [@anibal_sanchez](https://twitter.com/anibal_sanchez) Jefe de equ
 
 Algolia ayuda a las empresas de todos los sectores a crear rápidamente experiencias de búsqueda y descubrimiento relevantes, escalables y rápidas como el rayo.
 
+- Slides: <https://extly-tech.com/media/busquedas-instantaneas-con-algolia-en-joomla-wpo/index.html#/>
+- PDF: <https://dv1ln6wssrkrf.cloudfront.net/media/busquedas-instantaneas-con-algolia-en-joomla-wpo/busquedas-instantaneas-con-algolia-en-joomla-wpo-by-anibal-sanchez.zip>
+- Video: <https://joomlaes.org/joomladays/joomladay-madrid-2019/ponencias/busquedas-instantaneas-con-algolia-en-joomla-wpo>
+- Blog post: <https://blog.anibalhsanchez.com/es/9-blogueando/62-b%C3%BAsquedas-instant%C3%A1neas-con-algolia-en-joomla-wpo.html>
+
 ## License
 
 Creative Commons Attribution-ShareAlike 4.0 International License.
